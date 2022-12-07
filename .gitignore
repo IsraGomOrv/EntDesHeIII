@@ -1,0 +1,8 @@
+
+# Este el el fichero .gitignore, los ficheros que se listen aquí se ignoran
+# a la hora de realizar commits
+# Por ejemplo podemos crear una regla para tipos de archivo.
+*.log
+*.sql
+*.sqlite
+
