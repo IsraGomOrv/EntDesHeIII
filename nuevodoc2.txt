@@ -1,1 +1,2 @@
-esto es un nuevo doc de texto
+
+Este en un nuevo documento para comprobar cambios y confirmar cambio
