@@ -1,3 +1,7 @@
 
+<<<<<<< HEAD
 hola
 A ver si con el tercero funciona.
+=======
+De una vez por todas.
+>>>>>>> nueva_rama_2
