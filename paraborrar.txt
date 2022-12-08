@@ -1,3 +1,7 @@
 Esta es la primera versión del fichero.
+<<<<<<< HEAD
 Y esta la segunda.
 
+=======
+Para borrar en nueva_rama
+>>>>>>> 8b5173c8330d3170c40299dc5686fd29f17d9c64
